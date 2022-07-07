@@ -1,0 +1,42 @@
+.main{
+    width: 470px;
+    height: 500px;
+}
+
+.videoflex__preview{
+    background-color: red;
+    height: 480px;
+    width: 470px;
+    margin-top: 44px;
+}
+.videoflex__header{
+    background-color:white;
+    
+    width: 470px;
+    margin-top: 44px;
+}
+.main__profil{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 470px;
+    height: 119px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-top: 16px;
+    margin-left: 250px;
+
+}
+.image_banam,
+.image_barcelona,
+.image_david,
+.image_raissa,
+.image_emci,
+.image_denamwana{ 
+    width: 56px;
+    height: 56px;
+    border-radius: 27px;
+
+}
